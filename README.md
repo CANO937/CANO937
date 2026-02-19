@@ -1,14 +1,16 @@
-
-Here's a simplified version in English, written in a more casual tone:
-
 👨‍💻 About Me
-Hi there! I'm a student passionate about programming and all things tech.
+I am a dedicated student with a strong interest in software development and emerging technologies. 
+My focus is on building solid technical foundations while continuously expanding my expertise.
 
-🚀 Highlight Project:
-I created VENERA, my own programming language, built from scratch. using Python
+🌱 Professional Growth
+I am committed to ongoing learning and actively seek opportunities to enhance my skills through new challenges, 
+innovative tools, and industry‑standard practices.
 
-🌱 Always Learning:
-I’m always looking for new challenges and ways to improve my skills.
+📫 Connect
+Feel free to explore my projects and reach out if you are interested in discussing potential
+collaborations or sharing insights on technology‑driven initiatives.
 
-📫 Let’s Connect:
-Feel free to check out my projects and reach out if you want to collaborate or chat about cool ideas!
+🛠️ Technical Skills
+
+Programming Languages:	              C++, Python
+Areas of Interest:	                  Software Development, Algorithms, Problem Solving
