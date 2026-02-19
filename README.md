@@ -11,6 +11,4 @@ Feel free to explore my projects and reach out if you are interested in discussi
 collaborations or sharing insights on technology‑driven initiatives.
 
 🛠️ Technical Skills
-
 Programming Languages:	              C++, Python
-Areas of Interest:	                  Software Development, Algorithms, Problem Solving
