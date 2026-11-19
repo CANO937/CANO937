@@ -1,14 +1,14 @@
-👨‍💻 About Me
-I am a dedicated student with a strong interest in software development and emerging technologies. 
-My focus is on building solid technical foundations while continuously expanding my expertise.
+### Systems & Bare-Metal Developer
 
-🌱 Professional Growth
-I am committed to ongoing learning and actively seek opportunities to enhance my skills through new challenges, 
-innovative tools, and industry‑standard practices.
+I am a bare-metal and low-level developer focused on understanding and controlling how software interacts directly with hardware. My primary areas of interest include **UEFI firmware development**, systems programming, and building **emulators**-
 
-📫 Connect
-Feel free to explore my projects and reach out if you are interested in discussing potential
-collaborations or sharing insights on technology‑driven initiatives.
+#### Technical Background
+* **Proficient:** C, C++
+* **Working Knowledge:** Assembly, C3
+* **Currently Learning:** Assembly, C3, Java
 
-🛠️ Technical Skills
-Programming Languages:	              C/C++ ASMx86 && ASMx86_64
+#### Focus Areas
+* **Bare-Metal & Firmware:** Developing low-level system components and UEFI applications without OS abstractions.
+* **Emulation:** Designing and implementing hardware emulators to study computer architecture.
+
+Feel free to explore my repositories or reach out regarding systems programming, firmware, and emulation projects.
